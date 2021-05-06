@@ -34,7 +34,7 @@
     "rxjs": "^6.4.0",
     "rxjs-compat": "^6.4.0",
     "tslib": "^1.9.3",
-    "url-parse": "^1.4.4",
+    "url-parse": "^1.5.0",
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
